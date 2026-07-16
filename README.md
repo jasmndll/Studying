@@ -16,11 +16,17 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jasmndll/Studying/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/jasmndll/Studying/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/jasmndll/Studying/tree/main/0641-design-circular-deque/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jasmndll/Studying/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/jasmndll/Studying/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/jasmndll/Studying/tree/main/0641-design-circular-deque/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jasmndll/Studying/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
