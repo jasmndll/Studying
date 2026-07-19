@@ -69,4 +69,8 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jasmndll/Studying/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0197-rising-temperature](https://github.com/jasmndll/Studying/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
