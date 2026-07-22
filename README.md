@@ -79,6 +79,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/jasmndll/Studying/tree/main/0197-rising-temperature/) | Easy |
+| [0577-employee-bonus](https://github.com/jasmndll/Studying/tree/main/0577-employee-bonus/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/jasmndll/Studying/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
