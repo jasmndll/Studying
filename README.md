@@ -12,6 +12,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jasmndll/Studying/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/jasmndll/Studying/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/jasmndll/Studying/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0283-move-zeroes](https://github.com/jasmndll/Studying/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/jasmndll/Studying/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0622-design-circular-queue](https://github.com/jasmndll/Studying/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/jasmndll/Studying/tree/main/0641-design-circular-deque/) | Medium |
@@ -99,6 +100,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jasmndll/Studying/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/jasmndll/Studying/tree/main/0061-rotate-list/) | Medium |
+| [0283-move-zeroes](https://github.com/jasmndll/Studying/tree/main/0283-move-zeroes/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/jasmndll/Studying/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
