@@ -9,6 +9,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0004-median-of-two-sorted-arrays](https://github.com/jasmndll/Studying/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0046-permutations](https://github.com/jasmndll/Studying/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/jasmndll/Studying/tree/main/0047-permutations-ii/) | Medium |
+| [0066-plus-one](https://github.com/jasmndll/Studying/tree/main/0066-plus-one/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jasmndll/Studying/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/jasmndll/Studying/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/jasmndll/Studying/tree/main/0220-contains-duplicate-iii/) | Hard |
@@ -56,6 +57,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/jasmndll/Studying/tree/main/0043-multiply-strings/) | Medium |
 | [0060-permutation-sequence](https://github.com/jasmndll/Studying/tree/main/0060-permutation-sequence/) | Hard |
+| [0066-plus-one](https://github.com/jasmndll/Studying/tree/main/0066-plus-one/) | Easy |
 | [0415-add-strings](https://github.com/jasmndll/Studying/tree/main/0415-add-strings/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
