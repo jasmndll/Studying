@@ -109,6 +109,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jasmndll/Studying/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/jasmndll/Studying/tree/main/0043-multiply-strings/) | Medium |
+| [0058-length-of-last-word](https://github.com/jasmndll/Studying/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/jasmndll/Studying/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/jasmndll/Studying/tree/main/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/jasmndll/Studying/tree/main/0415-add-strings/) | Easy |
