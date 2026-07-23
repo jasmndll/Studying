@@ -22,6 +22,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jasmndll/Studying/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/jasmndll/Studying/tree/main/0061-rotate-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/jasmndll/Studying/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/jasmndll/Studying/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/jasmndll/Studying/tree/main/0641-design-circular-deque/) | Medium |
 ## Design
@@ -65,6 +66,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jasmndll/Studying/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0060-permutation-sequence](https://github.com/jasmndll/Studying/tree/main/0060-permutation-sequence/) | Hard |
+| [0206-reverse-linked-list](https://github.com/jasmndll/Studying/tree/main/0206-reverse-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
