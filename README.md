@@ -122,6 +122,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0242-valid-anagram](https://github.com/jasmndll/Studying/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/jasmndll/Studying/tree/main/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/jasmndll/Studying/tree/main/0415-add-strings/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/jasmndll/Studying/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0709-to-lower-case](https://github.com/jasmndll/Studying/tree/main/0709-to-lower-case/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/jasmndll/Studying/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Simulation
@@ -150,4 +151,5 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jasmndll/Studying/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/jasmndll/Studying/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
