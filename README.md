@@ -20,6 +20,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/jasmndll/Studying/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/jasmndll/Studying/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/jasmndll/Studying/tree/main/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/jasmndll/Studying/tree/main/0206-reverse-linked-list/) | Easy |
@@ -57,6 +58,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/jasmndll/Studying/tree/main/0002-add-two-numbers/) | Medium |
 | [0043-multiply-strings](https://github.com/jasmndll/Studying/tree/main/0043-multiply-strings/) | Medium |
 | [0060-permutation-sequence](https://github.com/jasmndll/Studying/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/jasmndll/Studying/tree/main/0066-plus-one/) | Easy |
@@ -64,6 +66,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/jasmndll/Studying/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/jasmndll/Studying/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0060-permutation-sequence](https://github.com/jasmndll/Studying/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/jasmndll/Studying/tree/main/0206-reverse-linked-list/) | Easy |
