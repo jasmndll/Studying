@@ -17,6 +17,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0435-non-overlapping-intervals](https://github.com/jasmndll/Studying/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0622-design-circular-queue](https://github.com/jasmndll/Studying/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/jasmndll/Studying/tree/main/0641-design-circular-deque/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jasmndll/Studying/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jasmndll/Studying/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0242-valid-anagram](https://github.com/jasmndll/Studying/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/jasmndll/Studying/tree/main/0389-find-the-difference/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/jasmndll/Studying/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jasmndll/Studying/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/jasmndll/Studying/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
