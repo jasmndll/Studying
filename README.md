@@ -16,6 +16,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0283-move-zeroes](https://github.com/jasmndll/Studying/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/jasmndll/Studying/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0622-design-circular-queue](https://github.com/jasmndll/Studying/tree/main/0622-design-circular-queue/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/jasmndll/Studying/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0641-design-circular-deque](https://github.com/jasmndll/Studying/tree/main/0641-design-circular-deque/) | Medium |
 | [0896-monotonic-array](https://github.com/jasmndll/Studying/tree/main/0896-monotonic-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jasmndll/Studying/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -58,6 +59,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0242-valid-anagram](https://github.com/jasmndll/Studying/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/jasmndll/Studying/tree/main/0389-find-the-difference/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/jasmndll/Studying/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/jasmndll/Studying/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jasmndll/Studying/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/jasmndll/Studying/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Math
@@ -69,6 +71,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0060-permutation-sequence](https://github.com/jasmndll/Studying/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/jasmndll/Studying/tree/main/0066-plus-one/) | Easy |
 | [0415-add-strings](https://github.com/jasmndll/Studying/tree/main/0415-add-strings/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/jasmndll/Studying/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jasmndll/Studying/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/jasmndll/Studying/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Recursion
