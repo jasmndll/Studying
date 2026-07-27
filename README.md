@@ -19,6 +19,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0628-maximum-product-of-three-numbers](https://github.com/jasmndll/Studying/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0641-design-circular-deque](https://github.com/jasmndll/Studying/tree/main/0641-design-circular-deque/) | Medium |
 | [0896-monotonic-array](https://github.com/jasmndll/Studying/tree/main/0896-monotonic-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jasmndll/Studying/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jasmndll/Studying/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jasmndll/Studying/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 ## Linked List
@@ -60,6 +61,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0389-find-the-difference](https://github.com/jasmndll/Studying/tree/main/0389-find-the-difference/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/jasmndll/Studying/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/jasmndll/Studying/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jasmndll/Studying/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jasmndll/Studying/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/jasmndll/Studying/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Math
@@ -163,4 +165,8 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jasmndll/Studying/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/jasmndll/Studying/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jasmndll/Studying/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
