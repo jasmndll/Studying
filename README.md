@@ -72,6 +72,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0043-multiply-strings](https://github.com/jasmndll/Studying/tree/main/0043-multiply-strings/) | Medium |
 | [0060-permutation-sequence](https://github.com/jasmndll/Studying/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/jasmndll/Studying/tree/main/0066-plus-one/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/jasmndll/Studying/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0415-add-strings](https://github.com/jasmndll/Studying/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/jasmndll/Studying/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jasmndll/Studying/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -145,6 +146,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/jasmndll/Studying/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/jasmndll/Studying/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -172,6 +174,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/jasmndll/Studying/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/jasmndll/Studying/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -180,5 +183,10 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/jasmndll/Studying/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/jasmndll/Studying/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/jasmndll/Studying/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
