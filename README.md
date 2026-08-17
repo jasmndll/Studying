@@ -27,6 +27,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/jasmndll/Studying/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/jasmndll/Studying/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/jasmndll/Studying/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/jasmndll/Studying/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/jasmndll/Studying/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jasmndll/Studying/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -98,6 +99,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jasmndll/Studying/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/jasmndll/Studying/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +178,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jasmndll/Studying/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jasmndll/Studying/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -198,4 +201,12 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/jasmndll/Studying/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/jasmndll/Studying/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jasmndll/Studying/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jasmndll/Studying/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
