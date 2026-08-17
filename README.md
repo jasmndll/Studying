@@ -29,6 +29,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0021-merge-two-sorted-lists](https://github.com/jasmndll/Studying/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/jasmndll/Studying/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/jasmndll/Studying/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jasmndll/Studying/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/jasmndll/Studying/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/jasmndll/Studying/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/jasmndll/Studying/tree/main/0641-design-circular-deque/) | Medium |
@@ -126,6 +127,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jasmndll/Studying/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/jasmndll/Studying/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jasmndll/Studying/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/jasmndll/Studying/tree/main/0283-move-zeroes/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/jasmndll/Studying/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
