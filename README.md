@@ -22,6 +22,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jasmndll/Studying/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jasmndll/Studying/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jasmndll/Studying/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/jasmndll/Studying/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0415-add-strings](https://github.com/jasmndll/Studying/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/jasmndll/Studying/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jasmndll/Studying/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/jasmndll/Studying/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/jasmndll/Studying/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -166,6 +168,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0013-roman-to-integer](https://github.com/jasmndll/Studying/tree/main/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/jasmndll/Studying/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/jasmndll/Studying/tree/main/0389-find-the-difference/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/jasmndll/Studying/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,4 +212,32 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jasmndll/Studying/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/jasmndll/Studying/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/jasmndll/Studying/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/jasmndll/Studying/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/jasmndll/Studying/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/jasmndll/Studying/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/jasmndll/Studying/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/jasmndll/Studying/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 <!---LeetCode Topics End-->
