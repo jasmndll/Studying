@@ -11,6 +11,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0047-permutations-ii](https://github.com/jasmndll/Studying/tree/main/0047-permutations-ii/) | Medium |
 | [0066-plus-one](https://github.com/jasmndll/Studying/tree/main/0066-plus-one/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jasmndll/Studying/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jasmndll/Studying/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/jasmndll/Studying/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/jasmndll/Studying/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0283-move-zeroes](https://github.com/jasmndll/Studying/tree/main/0283-move-zeroes/) | Easy |
@@ -97,6 +98,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jasmndll/Studying/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jasmndll/Studying/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jasmndll/Studying/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/jasmndll/Studying/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
