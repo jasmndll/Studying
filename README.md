@@ -19,6 +19,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0622-design-circular-queue](https://github.com/jasmndll/Studying/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/jasmndll/Studying/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0641-design-circular-deque](https://github.com/jasmndll/Studying/tree/main/0641-design-circular-deque/) | Medium |
+| [0645-set-mismatch](https://github.com/jasmndll/Studying/tree/main/0645-set-mismatch/) | Easy |
 | [0896-monotonic-array](https://github.com/jasmndll/Studying/tree/main/0896-monotonic-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jasmndll/Studying/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jasmndll/Studying/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -68,6 +69,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0389-find-the-difference](https://github.com/jasmndll/Studying/tree/main/0389-find-the-difference/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/jasmndll/Studying/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/jasmndll/Studying/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0645-set-mismatch](https://github.com/jasmndll/Studying/tree/main/0645-set-mismatch/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jasmndll/Studying/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jasmndll/Studying/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/jasmndll/Studying/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -173,11 +175,13 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0013-roman-to-integer](https://github.com/jasmndll/Studying/tree/main/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/jasmndll/Studying/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/jasmndll/Studying/tree/main/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/jasmndll/Studying/tree/main/0645-set-mismatch/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jasmndll/Studying/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/jasmndll/Studying/tree/main/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/jasmndll/Studying/tree/main/0645-set-mismatch/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
