@@ -50,6 +50,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/jasmndll/Studying/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/jasmndll/Studying/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -139,6 +140,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/jasmndll/Studying/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jasmndll/Studying/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/jasmndll/Studying/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0043-multiply-strings](https://github.com/jasmndll/Studying/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/jasmndll/Studying/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/jasmndll/Studying/tree/main/0242-valid-anagram/) | Easy |
@@ -155,6 +157,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/jasmndll/Studying/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0095-unique-binary-search-trees-ii](https://github.com/jasmndll/Studying/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/jasmndll/Studying/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/jasmndll/Studying/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -240,4 +243,8 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/jasmndll/Studying/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/jasmndll/Studying/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
