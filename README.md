@@ -9,6 +9,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0004-median-of-two-sorted-arrays](https://github.com/jasmndll/Studying/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0046-permutations](https://github.com/jasmndll/Studying/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/jasmndll/Studying/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/jasmndll/Studying/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/jasmndll/Studying/tree/main/0066-plus-one/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jasmndll/Studying/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jasmndll/Studying/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -79,6 +80,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0002-add-two-numbers](https://github.com/jasmndll/Studying/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/jasmndll/Studying/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/jasmndll/Studying/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/jasmndll/Studying/tree/main/0048-rotate-image/) | Medium |
 | [0060-permutation-sequence](https://github.com/jasmndll/Studying/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/jasmndll/Studying/tree/main/0066-plus-one/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/jasmndll/Studying/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -253,4 +255,8 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jasmndll/Studying/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/jasmndll/Studying/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
