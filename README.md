@@ -24,6 +24,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | [0645-set-mismatch](https://github.com/jasmndll/Studying/tree/main/0645-set-mismatch/) | Easy |
 | [0896-monotonic-array](https://github.com/jasmndll/Studying/tree/main/0896-monotonic-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jasmndll/Studying/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/jasmndll/Studying/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jasmndll/Studying/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/jasmndll/Studying/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jasmndll/Studying/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -57,6 +58,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jasmndll/Studying/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/jasmndll/Studying/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/jasmndll/Studying/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +165,7 @@ My DSA codes that I wrote during learning and Leetcode solutions that I made.
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/jasmndll/Studying/tree/main/0043-multiply-strings/) | Medium |
 | [0415-add-strings](https://github.com/jasmndll/Studying/tree/main/0415-add-strings/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/jasmndll/Studying/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
